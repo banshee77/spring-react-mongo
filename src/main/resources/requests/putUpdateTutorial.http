@@ -1,0 +1,8 @@
+PUT http://localhost:8080/api/tutorials/5ec94dec39e5c35ecd7fda09
+Content-Type: application/json
+
+{
+  "title": "updated title",
+  "description": "Updated description",
+  "published": true
+}
